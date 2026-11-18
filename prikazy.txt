@@ -3,3 +3,6 @@
 2. git config --global user.email "thomasek.adam@gmail.com"
 3. git config --global user.name "DarthCraftTom"
 4. git commit -m "Vytvoreni formulare"
+git remote add origin https://github.com/DarthCraftTom/programko.git
+git branch -M main
+git push -u origin main
